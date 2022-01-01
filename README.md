@@ -1,10 +1,11 @@
-### 👋 Hi there
-
+### 👋 Hi. I'm JonghakSeo
 
 [![blog](https://img.shields.io/badge/-Blog-white?style=flat-square)](https://nookpi.tistory.com/)
 [![rocketpunch](https://img.shields.io/badge/-RocketPunch-5260f6?style=flat-square)](https://www.rocketpunch.com/@unqocn/)
 [![linkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jong-hak-seo-9142ba200/)
 [![gmail](https://img.shields.io/badge/-unqocn@gmail.com-grey?style=flat-square&logo=gmail)](mailto://unqocn@gmail.com/)
+
+🔭 I’m currently working on Creatrip
 
 I'm web **front-end developer** using react & typescript <br/>
 Sometims I develop others like react-native and node.js, but I prefer web.
@@ -22,9 +23,9 @@ Platform & Language
 
 Tools
 
-![](https://img.shields.io/badge/Webstorm-000000?style=flat-square&logo=webstorm&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Webstorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 
 
 <!--
@@ -32,7 +33,7 @@ Tools
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
