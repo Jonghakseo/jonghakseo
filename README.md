@@ -7,8 +7,7 @@
 
 🔭 I’m currently working on Creatrip
 
-I'm web **front-end developer** using react & typescript <br/>
-Sometimes I develop others like react-native and node.js, but I prefer web.
+I'm web **front-end engineer** using React & Typescript
 
 ### Skills
 
