@@ -29,6 +29,9 @@ Tools
 ![](https://img.shields.io/badge/Webstorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 
 
+[Resume](https://jonghakseo.github.io/)
+
+
 <!--
 **Jonghakseo/jonghakseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
