@@ -5,9 +5,11 @@
 [![linkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jong-hak-seo-9142ba200/)
 [![gmail](https://img.shields.io/badge/-unqocn@gmail.com-grey?style=flat-square&logo=gmail)](mailto://unqocn@gmail.com/)
 
+[Resume](https://jonghakseo.github.io/)
+
 🔭 I’m currently working on Creatrip
 
-I'm web **front-end engineer** using React & Typescript
+I'm **front-end engineer** who mainly uses React and Typescript
 
 ### Skills
 
@@ -26,9 +28,6 @@ Tools
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Webstorm-000000?style=flat-square&logo=webstorm&logoColor=white)
-
-
-[Resume](https://jonghakseo.github.io/)
 
 
 <!--
