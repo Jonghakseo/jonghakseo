@@ -11,6 +11,9 @@
 
 I'm **front-end engineer** who mainly uses React and Typescript
 
+[![Jonghakseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonghakseo)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Skills
 
 Platform & Language
