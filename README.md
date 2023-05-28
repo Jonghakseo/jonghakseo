@@ -7,7 +7,7 @@
 
 [Resume](https://jonghakseo.github.io/)
 
-🔭 I’m currently working on Creatrip
+🔭 I’m currently working on [Creatrip](https://creatrip.co.kr/)
 
 I'm **front-end engineer** who mainly uses React and Typescript
 
