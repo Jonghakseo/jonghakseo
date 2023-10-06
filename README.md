@@ -1,7 +1,6 @@
 ### 👋 Hi. I'm JonghakSeo
 
 [![blog](https://img.shields.io/badge/-Blog-white?style=flat-square)](https://nookpi.tistory.com/)
-[![rocketpunch](https://img.shields.io/badge/-RocketPunch-5260f6?style=flat-square)](https://www.rocketpunch.com/@unqocn/)
 [![linkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jong-hak-seo-9142ba200/)
 [![gmail](https://img.shields.io/badge/-unqocn@gmail.com-grey?style=flat-square&logo=gmail)](mailto://unqocn@gmail.com/)
 
